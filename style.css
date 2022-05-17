@@ -5,6 +5,8 @@ html, html * {
     font-family: monospace;
 }
 
+p { font-size: 1.2em; }
+
 h1, h3, h4, li a { 
     text-align: center; 
     display: block;
